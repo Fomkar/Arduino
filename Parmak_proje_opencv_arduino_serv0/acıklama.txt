@@ -1,0 +1,1 @@
+Burada Arduino kullandm ve 2 tane servo motor ile parmakları hareket ettiriyorum.
